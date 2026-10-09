@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-Phobixed&label=Recruits&color=d0dfb6&style=plastic&abbreviated=true&base=21000">
+  <img src="https://komarev.com/ghpvc/?username=your-github-Phobixed&label=Shimmer&color=a04ed8&style=plastic&abbreviated=true&base=21000">
 </p>
 
  </p>
